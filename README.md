@@ -54,7 +54,7 @@ ________________________________________________________________________________
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=nikhilgalfade&theme=default" alt="GitHub Streak" height="165" />
 </div>
-## 🔥 Streak Stats
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" alt="GitHub Streak" />
 </p>
