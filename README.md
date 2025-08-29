@@ -5,14 +5,19 @@
 I have completed my B.E degree in Information Technology Engineering from Sipna college of engineering and Technology, Amravati
 
 - 🌍 I'm based in Pune,Maharashtra
+  
 - ✉️ You can contact me at nikhilgalfade42@gmail.com
+  
 - 🧠 I am an open-source enthusiast and an aspiring java full stack developer along with other skills like python, nodejs, Javascript.
+  
 - 🌱 I’m currently focusing on DSA.
+  
 - 🌱 I’m currently learning Java Full Stack Development
+  
 - 👯 I’m looking forward to be a part of various interesting projects.
+  
 - 🤝 I’m eager to know about opportunities which will help me in expanding my potential.
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+
 
 
 <p align="center">
