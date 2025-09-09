@@ -17,6 +17,7 @@ I have completed my B.E degree in Information Technology Engineering from Sipna 
 - 👯 I’m looking forward to be a part of various interesting projects.
   
 - 🤝 I’m eager to know about opportunities which will help me in expanding my potential.
+- hi
 
 
 
