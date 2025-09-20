@@ -2,7 +2,7 @@
 ## Hi ![Waving Hand](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Nikhil Galfade
 ![Profile Views](https://komarev.com/ghpvc/?username=nikhilgalfade&color=blue)
 
-I have completed my B.E degree in Information Technology Engineering from Sipna college of engineering and Technology, Amravat
+I have completed my B.E degree in Information Technology Engineering from Sipna college of engineering and Technology, Amravati
 
 - 🌍 I'm based in Pune,Maharashtra
   
