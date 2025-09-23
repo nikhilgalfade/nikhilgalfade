@@ -1,5 +1,15 @@
+<div align="center">
+  <h1 style="font-family: 'Georgia', serif">
+    Hi 
+    <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="50" />
+    My name is Nikhil Galfade
+  </h1>
+</div>
 
-## Hi ![Waving Hand](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Nikhil Galfade
+
+
+
+
 ![Profile Views](https://komarev.com/ghpvc/?username=nikhilgalfade&color=blue)
 
 I have completed my B.E degree in Information Technology Engineering from Sipna college of engineering and Technology, Amravati
@@ -27,8 +37,11 @@ I have completed my B.E degree in Information Technology Engineering from Sipna 
 
 _________________________________________________________________________________________________________________________________
 
-Skills
-
+<div align="center">
+  <h1 style="font-family: 'Georgia', serif">
+    SKILLS
+  </h1>
+</div>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,spring,python,html,css,tailwind,js,react,vscode,idea,postgres,git" />
@@ -36,6 +49,12 @@ Skills
 </p>
 
 _________________________________________________________________________________________________________________________________
+
+<div align="center">
+  <h1 style="font-family: 'Georgia', serif; border-bottom: none;">
+   SOCIAL MEDIA
+  </h1>
+</div>
 
 <p align="center">
   <a href="https://github.com/nikhilgalfade" target="_blank">
@@ -50,6 +69,12 @@ ________________________________________________________________________________
 </p>
 
 _________________________________________________________________________________________________________________________________
+
+<div align="center">
+  <h1 style="font-family: 'Georgia', serif; border-bottom: none;">
+    GITHUB STATS
+  </h1>
+</div>
 
 
 <div align="center">
