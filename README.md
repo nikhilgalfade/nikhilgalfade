@@ -20,7 +20,7 @@ I have completed my B.E degree in Information Technology Engineering from Sipna 
   
 - 🧠 I am an open-source enthusiast and an aspiring java full stack developer along with other skills like python, nodejs, Javascript.
   
-- 🌍 I’m currently focusing on DSA
+- 🌍 I’m currently focusing on DSA.
   
 - 🌴 I’m currently learning Java Full Stack Development
   
