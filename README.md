@@ -14,7 +14,7 @@
 
 I have completed my B.E degree in Information Technology Engineering from Sipna college of engineering and Technology, Amravati
 
-- 🌍 I'm based in Pune,Maharashtra.
+- 🌍 I'm based in Pune,Maharashtra
   
 - ✉️ You can contact me at nikhilgalfade42@gmail.com
   
