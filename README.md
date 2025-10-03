@@ -12,7 +12,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=nikhilgalfade&color=blue)
 
-I have completed my B.E degree in Information Technology Engineering from Sipna college of engineering and Technology, Amravati
+I have completed my B.E degree in Information Technology Engineering from Sipna college of engineering and Technology, Amravati.
 
 - 🌍 I'm based in Pune,Maharashtra.
   
